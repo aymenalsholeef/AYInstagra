@@ -1,0 +1,18 @@
+{"version_code":4,"content":"
+<p>تحديث 1.30</p>
+
+<li>إضافة سيرفر ثيمات يمكنك الان اختيار الثيم الخاص بك</li>
+<li>إضافة خيارات جديدة لتغيير ثيم شاشة البروفايل</li>
+<li>إضافة خيارات جديدة لتغيير ثيم شاشة التنبيهات</li>
+<li>إصلاح ظهور خط ابيض في الشاشة الرئيسية</li>
+<li>لتسجيل الدخول عبر الفيسبوك (الغي تثبيت الفيسبوك ثم سجل دخول بالانستقرام ثم ثبت تطبيق الفيسبوك)</li>
+<li>إصلاحات اخرى</li>
+
+<li> Added Server Themes for In-App Download</li>
+<li> Added Options to Theme Profile Screen(Mod 6)</li>
+<li> Added Options to Theme Notifications Screen(Mod 5)</li>
+<li> Fixed White line on Home Screen</li>
+<li> Many More Fixes</li>
+
+","url":"http://www.aymods.gq/2018/01/ayinsta.html"
+}
